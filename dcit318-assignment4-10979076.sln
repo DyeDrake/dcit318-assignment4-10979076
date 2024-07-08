@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcit318-assignment4-10979076", "dcit318-assignment4-10979076\dcit318-assignment4-10979076.csproj", "{646203E6-BF60-437A-B1E6-8154C8451EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "address_book", "address_book\address_book.csproj", "{2E605031-176A-4CAA-BAB0-9611D82F8A87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "address_book", "address_book\address_book.csproj", "{2E605031-176A-4CAA-BAB0-9611D82F8A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvas", "Canvas\Canvas.csproj", "{8CC3D242-4EAD-4C20-8E9A-35A07053D6EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2E605031-176A-4CAA-BAB0-9611D82F8A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E605031-176A-4CAA-BAB0-9611D82F8A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E605031-176A-4CAA-BAB0-9611D82F8A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC3D242-4EAD-4C20-8E9A-35A07053D6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC3D242-4EAD-4C20-8E9A-35A07053D6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC3D242-4EAD-4C20-8E9A-35A07053D6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC3D242-4EAD-4C20-8E9A-35A07053D6EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
