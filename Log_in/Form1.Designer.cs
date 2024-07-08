@@ -42,7 +42,7 @@
             label1.BackColor = SystemColors.ControlLightLight;
             label1.Font = new Font("Segoe UI", 24F);
             label1.ForeColor = SystemColors.ActiveCaption;
-            label1.Location = new Point(127, 40);
+            label1.Location = new Point(156, 39);
             label1.Name = "label1";
             label1.Size = new Size(493, 45);
             label1.TabIndex = 0;
@@ -95,7 +95,7 @@
             // 
             button1.BackColor = SystemColors.Control;
             button1.Font = new Font("Segoe UI", 12F);
-            button1.Location = new Point(330, 286);
+            button1.Location = new Point(333, 294);
             button1.Name = "button1";
             button1.Size = new Size(144, 48);
             button1.TabIndex = 5;
